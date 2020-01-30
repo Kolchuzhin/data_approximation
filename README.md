@@ -1,1 +1,4 @@
-# C-Users-vkolchuzhin-Downloads-miscellaneous-master-data_approximation
+# data approximation
+Padé approximant
+approximation with radial basis functions (RBF)
+Prony series
